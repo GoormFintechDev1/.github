@@ -1,7 +1,3 @@
-<p align="center"><img width="1000" height="170" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/587a6c69-282b-4af9-88f2-f8f7dac27a34" />
-
-<br/>
-
 # 더블리(Doubly)
 > ### 카페 소상공인을 위한 자산 관리 플랫폼, 더블리
 
@@ -115,6 +111,7 @@
 <img width="700" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/ff4fa8ed-5d00-411d-8b88-c8dd7ededf29" /> <img width="700" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/7f00e46e-4729-45f8-82ab-9ee16334c478" />
 
 ### ▪︎ 요구사항 명세서
+<img width="700" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/7e5f4064-7b40-465d-bb59-7c7cc97b3ec7" />
 
 ### ▪︎ 시스템 구조도
 <img width="700" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/f5886037-1f46-4f15-8016-32bdb8b7b695" />
