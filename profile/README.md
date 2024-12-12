@@ -14,8 +14,9 @@
 | 3 | [기술 스택](#📚-기술-스택) |
 | 4 | [프로젝트 소개](#📢-프로젝트-소개) |
 | 5 | [기능 소개](#📱-기능-소개) |
-| 6 | [개발 문서](#개발-문서)  - [ERD](#ERD),[요구사항 명세서](#요구사항-명세서),[시스템 구조도](#시스템-구조도),Swagger(#Swagger)|
-| 7 | [느낀점](#느낀점) |
+| 6 | [개발 문서](#개발-문서) | 
+
+<br/>
 
 ## 👩🏻‍💻 팀원 소개 
 
@@ -24,11 +25,14 @@
 | ___역할___ | BE | FE | FE / INFRA | FE | BE |
 | ___Github___ | <a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.git👥hubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
 
+<br/>
+
 ## 🗓️ 프로젝트 진행 기간
-- 24.10.21 ~ 23.12.18 (총)
+▪︎ 24.10.21 ~ 24.12.18 (총 59일)
+
+<br/>
 
 ## 📚 기술 스택
-
 <table>
     <tr>
         <td><b>Back-end</b></td>
@@ -75,21 +79,41 @@
     </tr>
 </table>
 
+<br/>
 
 ## 📢 프로젝트 소개 
 
-## 📱 기능 소개
 
+<br/>
+
+## 📱 기능 소개
+  ~~~
+  1️⃣ 로그인 / 회원가입
+  ~~~
+| 회원가입 | 로그인 |
+|:-----: |:-----:| 
+| <이미지> | <이미지> | 
+| <설명>  |  <설명>  |
+  ~~~
+  2️⃣ 로그인 / 회원가입
+  ~~~
+
+  ~~~
+  3️⃣ 로그인 / 회원가입
+  ~~~
+
+<br/>
 
 ## 📝 개발 문서 
-### ERD
+### ▪︎ ERD
 
-### 요구사항 명세서
 
-### 시스템 구조도
-![제목 없음-2024-10-24-0944](https://github.com/user-attachments/assets/f5886037-1f46-4f15-8016-32bdb8b7b695)
+### ▪︎ 요구사항 명세서
 
-### Swagger
+### ▪︎ 시스템 구조도
+<img width="650" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/f5886037-1f46-4f15-8016-32bdb8b7b695" />
+
+### ▪︎ Swagger
 
 
 
