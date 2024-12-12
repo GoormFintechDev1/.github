@@ -1,5 +1,7 @@
 # 더블리(Doubly)
 > ### 카페 소상공인을 위한 자산 관리 플랫폼, 더블리
+<img width="800" height="450" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/c3f7fe78-3d0a-4028-8cb8-a667d7d6fa58" />
+
 
 ### 🔗 Link : https://doubly.co.kr/
 
