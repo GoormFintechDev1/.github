@@ -7,9 +7,8 @@
 
 ### 🔗 Link : http://doubly.co.kr/
 
-| 순번 | 목차 항목 |
-| :-: | :-: |
 | 1 | [팀원 소개](#👩🏻‍💻-팀원-소개) |
+| :-: | :-: |
 | 2 | [프로젝트 진행 기간](#🗓️-프로젝트-진행-기간) |
 | 3 | [기술 스택](#📚-기술-스택) |
 | 4 | [프로젝트 소개](#📢-프로젝트-소개) |
@@ -18,12 +17,12 @@
 
 <br/>
 
-## 👩🏻‍💻 팀원 소개 
+## 👩🏻‍💻 팀원 소개
 
-| _이름_ | 안태오 | 윤효정 | 정건희 | 진수진 | 주세연 |
-|:-----:|:----:|:-----:|:----:|:----:|:-----:|
-| ___역할___ | BE | FE | FE / INFRA | FE | BE |
-| ___Github___ | <a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.git👥hubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
+| 안태오 | 윤효정 | 정건희 | 진수진 | 주세연 |
+:----:|:-----:|:----:|:----:|:-----:|
+| Leader / BE | FE | FE / INFRA | FE | BE |
+<a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.git👥hubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
 
 <br/>
 
@@ -74,33 +73,72 @@
     <td>
     <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=JIRA Software&logoColor=white"/>
+    </tr>
+        </tr>
+    <tr>
+    <td><b>Crawling</b></td>
+    <td>
+<img src="https://img.shields.io/badge/Npm-6.14.18-CB3837?style=flat-square&logo=Npm&logoColor=white"/>
     </td>
     </tr>
+    <tr>
 </table>
 
 <br/>
 
 ## 📢 프로젝트 소개 
+▪︎ 더블리는 카페 소상공인을 위한 자산 관리 웹앱입니다.
 
+
+
+▪︎ “더하다”와 “불리다”의 의미를 담아 매출과 수익을 두 배로 늘려 재정 관리를 효과적으로 돕는 것을 목표로 합니다. 
+
+
+
+▪︎ 더블리는 매출 분석, 비용 관리, 예산 설정 등 다양한 기능을 제공하여 카페 사장님들이 쉽고 빠르게 재무 상태를 파악하고, 수익을 극대화할 수 있습니다.
 
 <br/>
 
 ## 📱 기능 소개
   ~~~
-  1️⃣ 로그인 / 회원가입
+  1️⃣ 로그인 / 회원가입 / 사업자 인증
   ~~~
-| 회원가입 | 로그인 |
-|:-----: |:-----:| 
-| <이미지> | <이미지> | 
-| <설명>  |  <설명>  |
-  ~~~
-  2️⃣ 로그인 / 회원가입
-  ~~~
+| 회원가입 | 로그인 | 사업자 인증 |
+|:-----: |:-----:| :-----:| 
+| <이미지> | <이미지> | <이미지> | 
+| <설명>  |  <설명>  | <설명>  |
 
   ~~~
-  3️⃣ 로그인 / 회원가입
+  2️⃣ 메인화면
   ~~~
+| 메인화면 | 매출 확인 | 지출 확인 | 순이익 확인 |
+|:-----: |:-----:| :-----:| :-----:| 
+| <이미지> | <이미지> | <이미지> | <이미지> | 
+| <설명>  |  <설명>  | <설명> | <설명>  |
+
+  ~~~
+  3️⃣ 목표설정
+  ~~~
+| 목표설정 | 로그인 | 사업자 인증 |
+|:-----: |:-----:| :-----:| 
+| <이미지> | <이미지> | <이미지> | 
+| <설명>  |  <설명>  | <설명>  |
+
+  ~~~
+  4️⃣ 월간 리포트
+  ~~~
+| 목표설정 | 로그인 | 사업자 인증 |
+|:-----: |:-----:| :-----:| 
+| <이미지> | <이미지> | <이미지> | 
+| <설명>  |  <설명>  | <설명>  |
+
+  ~~~
+  4️⃣ 카드 추천
+  ~~~
+| 목표설정 | 로그인 | 사업자 인증 |
+|:-----: |:-----:| :-----:| 
+| <이미지> | <이미지> | <이미지> | 
+| <설명>  |  <설명>  | <설명>  |
 
 <br/>
 
