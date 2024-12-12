@@ -18,7 +18,7 @@
 | 안태오 | 윤효정 | 정건희 | 진수진 | 주세연 |
 |:----:|:-----:|:----:|:----:|:-----:|
 | Leader / BE | FE | FE / INFRA | FE | BE |
-<a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.git👥hubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
+<a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.githubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
 
 <br/>
 
