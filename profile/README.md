@@ -116,7 +116,7 @@
 <img width="700" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/c72df796-28b1-4d6b-b724-1c55e5f5e643" />
 
 ### ▪︎ 시스템 구조도
-<img width="700" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/f5886037-1f46-4f15-8016-32bdb8b7b695" />
+<img width="700" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/40ac8abb-0ec5-40af-ae80-87b0c573683a" />
 
 
 
