@@ -1,6 +1,6 @@
 # 더블리(Doubly)
-> ### 카페 소상공인을 위한 자산 관리 플랫폼, 더블리
-<img width="800" height="450" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/c3f7fe78-3d0a-4028-8cb8-a667d7d6fa58" />
+> ### 소상공인을 위한 자산 관리 플랫폼, 더블리
+<img width="800" height="450" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/d07d5d42-0241-43c5-90a9-fb03c16ba11d" />
 
 
 ### 🔗 Link : https://doubly.co.kr/
@@ -19,7 +19,7 @@
 
 | 안태오 | 윤효정 | 정건희 | 진수진 | 주세연 |
 |:----:|:-----:|:----:|:----:|:-----:|
-| Leader / BE | FE / UI/UX | FE / INFRA | FE | BE |
+| Leader / BE | FE / UI&UX | FE / INFRA | FE | BE |
 <a href="https://github.com/metaeo"><img src="https://avatars.githubusercontent.com/metaeo" width="64" height="64"></a> | <a href="https://github.com/hj213"><img src="https://avatars.githubusercontent.com/hj213" width="64" height="64"></a> | <a href="https://github.com/carbancle"><img src="https://avatars.githubusercontent.com/carbancle" width="64" height="64"></a> | <a href="https://github.com/lxuzin"><img src="https://avatars.githubusercontent.com/lxuzin" width="64" height="64"></a> |<a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/jjjooo-it" width="64" height="64"></a> | 
 
 <br/>
@@ -56,19 +56,19 @@
 
 ## 📱 기능 소개
   ~~~
-  1️⃣ 로그인 / 회원가입 / 사업자 인증
+  1️⃣ 스플래시 / 회원가입 / 로그인 / 사업자 인증
   ~~~
-| 회원가입 | 로그인 | 사업자 인증 |
-|:-----: |:-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | 
-| <설명>  |  <설명>  | <설명>  |
+| 회원가입 & 로그인 | 사업자 인증 |
+|:-----: |:-----:| 
+| <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/46169d6e-3ba1-4bbe-87d6-9400460407d4" /> | <img width="300" height="500" src="https://github.com/user-attachments/assets/cc15b32d-11de-48b9-9b49-ce36a18756c0" /> | 
+| <설명> | <설명>  |
 
   ~~~
-  2️⃣ 메인화면
+  2️⃣ 메인 화면
   ~~~
-| 메인화면 | 매출 확인 | 지출 확인 | 순이익 확인 |
+| 대시보드 | 매출 | 지출 | 순이익|
 |:-----: |:-----:| :-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | <이미지> | 
+| <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/50e3f073-0c36-4681-9d46-10b3a2254f76" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/f4b3cf94-29c2-437d-be38-224ca0c0224d" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/97d702a6-e643-4151-9f5e-dacdba748f70" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/ce230ffb-0fd1-4dab-8b4e-2a87f379374d" /> | 
 | <설명>  |  <설명>  | <설명> | <설명>  |
 
   ~~~
@@ -82,18 +82,18 @@
   ~~~
   4️⃣ 월간 리포트
   ~~~
-| 목표설정 | 로그인 | 사업자 인증 |
-|:-----: |:-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | 
-| <설명>  |  <설명>  | <설명>  |
+| 월간 리포트 | 
+|:-----: |
+| <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/a7595744-d753-4dd1-96cb-e8db5e524923" /> | 
+| <설명>  | 
 
   ~~~
   4️⃣ 카드 추천
   ~~~
-| 목표설정 | 로그인 | 사업자 인증 |
-|:-----: |:-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | 
-| <설명>  |  <설명>  | <설명>  |
+| 카드 추천 | 마이 페이지 | 
+|:-----: |:-----:| 
+| <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/6c178108-1b81-4314-9ee8-4a1dabad025c" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/65bca5be-1741-4ee0-b936-d24ade8abf40" /> |
+| <설명>  |  <설명>  | 
 
  ~~~
   ➕ 포스기
