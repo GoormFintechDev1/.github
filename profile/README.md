@@ -76,7 +76,7 @@
   ~~~
 | 목표설정 |
 |:-----: |
-| <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/cd18a660-6b98-4ad1-a741-bedabb214664" /> |
+| <img width="250" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/cd18a660-6b98-4ad1-a741-bedabb214664" /> |
 | 당월 매출, 지출 목표 설정 기능| 
 
   ~~~
