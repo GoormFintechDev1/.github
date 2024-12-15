@@ -120,6 +120,8 @@
 ### ▪︎ 시스템 구조도
 <img width="700" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/40ac8abb-0ec5-40af-ae80-87b0c573683a" />
 
+### ▪︎ 와이어 프레임
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/313df172-637e-4af0-ad2c-336c16748ff6" />
 
 
 
