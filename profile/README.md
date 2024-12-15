@@ -61,7 +61,7 @@
 | 회원가입 & 로그인 | 사업자 인증 |
 |:-----: |:-----:| 
 | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/46169d6e-3ba1-4bbe-87d6-9400460407d4" /> | <img width="300" height="500" src="https://github.com/user-attachments/assets/cc15b32d-11de-48b9-9b49-ce36a18756c0" /> | 
-| <설명> | <설명>  |
+| 회원가입 필수 필드 및 중복확인 색상 시각화 <br> 비밀번호 등 민감 개인정보 암호화 저장 | 최초 사업자 인증 시 대표자 명으로 인증 및 <br> POS, 계좌 연동 |
 
   ~~~
   2️⃣ 메인 화면
@@ -69,23 +69,25 @@
 | 대시보드 | 매출 | 지출 | 순이익|
 |:-----: |:-----:| :-----:| :-----:| 
 | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/50e3f073-0c36-4681-9d46-10b3a2254f76" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/f4b3cf94-29c2-437d-be38-224ca0c0224d" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/97d702a6-e643-4151-9f5e-dacdba748f70" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/ce230ffb-0fd1-4dab-8b4e-2a87f379374d" /> | 
-| <설명>  |  <설명>  | <설명> | <설명>  |
+| 실시간 날씨 기반 매장 운영 추천 기능 <br> 실시간 매출/지출 현황 확인 가능  |  월/일 별 매출  | 카테고리 별 지출 | 월별 순이익 |
 
   ~~~
   3️⃣ 목표설정
   ~~~
-| 목표설정 | 로그인 | 사업자 인증 |
-|:-----: |:-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | 
-| <설명>  |  <설명>  | <설명>  |
+| 목표설정 |
+|:-----: |
+| <img width="300" height="550" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/cd18a660-6b98-4ad1-a741-bedabb214664" /> |
+| 당월 매출, 지출 목표 설정 기능| 
 
   ~~~
   4️⃣ 월간 리포트
   ~~~
 | 월간 리포트 | 
-|:-----: |
+|:-----|
 | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/a7595744-d753-4dd1-96cb-e8db5e524923" /> | 
-| <설명>  | 
+| chatGPT API 를 이용한 리포트 <br> (1) 주변 상권 분석 리포트 <br> - 매출/지출 비교 : 내 사업장과 주변 상권의 평균을 비교 분석 <br> - 경쟁력 파악  : 시간대별 매출, 카드/현금 비중 분석 <br> - 개선점 제공 : 위 정보를 기반으로 개선 방향 및 인사이트 제시 <br> (2) 시장 동향 분석 리포트 <br> - BSI /CPI 지수 제공 : 지수별 경기 현황과 예측 정보 제공 <br> - 주요 업계 이슈 : 업계에 영향을 미치는 주요 이슈 및 트렌드 제공 <br> - 개선점 제공 : 경제 상황 및 트렌드 기반 개선 방향성 및 인사이트 제시
+
+| 
 
   ~~~
   4️⃣ 카드 추천
@@ -93,15 +95,15 @@
 | 카드 추천 | 마이 페이지 | 
 |:-----: |:-----:| 
 | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/6c178108-1b81-4314-9ee8-4a1dabad025c" /> | <img width="300" height="500" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/65bca5be-1741-4ee0-b936-d24ade8abf40" /> |
-| <설명>  |  <설명>  | 
+| '카드 고릴라'에서 크롤링하여 유저의 지출 카테고리 별 최대 혜택 카드 추천 |  사업자 등록번호 복사, 로그아웃, 회원탈퇴  | 
 
  ~~~
   ➕ 포스기
   ~~~
-| 목표설정 | 로그인 | 사업자 인증 |
-|:-----: |:-----:| :-----:| 
-| <이미지> | <이미지> | <이미지> | 
-| <설명>  |  <설명>  | <설명>  |
+| POS 발주 | POS 매출 | 
+|:-----: |:-----:| 
+| <img width="600" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/a1a616f1-00ac-4cb8-8c61-d28686491147" /> | <img width="600" height="400" alt="스크린샷 2024-12-12 오전 10 47 25" src="https://github.com/user-attachments/assets/b9f78d4e-7775-4553-999a-60f9083673cb" /> |
+| toss payments API를 이용한 결제 시스템, 결제 내역(지출) 외부 BANK API로 이동 | 매출 내역 외부 BANK API로 이동 | 
 
 <br/>
 
